@@ -1,5 +1,7 @@
 # kifurlextract
 
+.kif URL extractor for kifusearch http://swks.sakura.ne.jp/wars/kifusearch/
+
 ## usage
 
 ```
